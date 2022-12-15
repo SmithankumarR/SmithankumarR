@@ -29,7 +29,7 @@
 <a href="https://www.instagram.com/i_am_smithan_kumar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_am_smithankumarr" height="30" width="40" /></a>
 <a href="https://medium.com/@smithankumar404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="smithankumarr" height="30" width="40" /></a>
 </p>
-<a href="https://api.daily.dev/devcards/4ac636e0b6f74e43b5105d6c23b0f657.png?r=noc" height="30" width="40"  > My Dev Card </a>
+<a href="https://app.daily.dev/SmithanKumar"><img src="https://api.daily.dev/devcards/4ac636e0b6f74e43b5105d6c23b0f657.png?r=noc" width="400" alt="Smithan Kumar R's Dev Card"/></a>
 <h3 align="left" >Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -45,7 +45,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smithankumarr&show_icons=true&locale=en&layout=compact" alt="smithankumarr" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smithankumarr&show_icons=true&locale=en&layout=compact" alt="smithankumarr" /></p> -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smithankumarr&show_icons=true&locale=en" alt="smithankumarr" /></p>
 
